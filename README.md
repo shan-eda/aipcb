@@ -11,15 +11,15 @@
 
 - **全套一键配置（推荐）**：
   ```text
-  去 GitHub 找 mmc-cube/aipcb，按照仓库里的说明帮我把 AI 画板环境和 3 个 skill 一次性配好
+  去 GitHub 找 shan-eda/aipcb，按照仓库里的说明帮我把 AI 画板环境和 3 个 skill 一次性配好
   ```
 - **只配嘉立创 EDA + 提示词 Skill**：
   ```text
-  去 GitHub 找 mmc-cube/aipcb，帮我配好嘉立创 EDA 画板 skill 和 pcb-prompt-helper 提示词 skill，并把 eext 路径给我
+  去 GitHub 找 shan-eda/aipcb，帮我配好嘉立创 EDA 画板 skill 和 pcb-prompt-helper 提示词 skill，并把 eext 路径给我
   ```
 - **只配 KiCad + 提示词 Skill**：
   ```text
-  去 GitHub 找 mmc-cube/aipcb，帮我配好 KiCad 画板 skill 和 pcb-prompt-helper 提示词 skill，并测试连接 KiCad
+  去 GitHub 找 shan-eda/aipcb，帮我配好 KiCad 画板 skill 和 pcb-prompt-helper 提示词 skill，并测试连接 KiCad
   ```
 
 ---

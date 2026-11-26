@@ -1,6 +1,6 @@
 # INSTALL_FOR_AI — AI Agent 自动配置执行手册
 
-本文件专门面向 **Codex / Claude Code / Antigravity / Cursor** 等 AI Agent。当用户说“去 GitHub 找 `mmc-cube/aipcb` 帮我配好环境/skill”时，请严格按以下确定性步骤执行，力求**一次跑通、零卡死、结果清晰可验证**。
+本文件专门面向 **Codex / Claude Code / Antigravity / Cursor** 等 AI Agent。当用户说“去 GitHub 找 `shan-eda/aipcb` 帮我配好环境/skill”时，请严格按以下确定性步骤执行，力求**一次跑通、零卡死、结果清晰可验证**。
 
 ---
 
